@@ -2,9 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vidhyadivakar.github.io/Projects/</loc>
+    <loc>https://vidhyadivakar.github.io/Projects/about/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/contact/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/docs/api_based_ai_workflow/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/docs/api_based_data_extraction_bestpractices/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/docs/api_based_data_extraction_error_handling/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/docs/css-best-practices-for-hugo/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/docs/datatypes/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/docs/how_to_add_cta_to_github_with_inlinestyles/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/docs/index-file-best-practices-for-hugo/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/docs/meter-api-doc/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/docs/registrytypeattribute/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/docs/steps-and-procedures/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/docs/tech-glossary/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/docs/test/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/docs/vscode-git-bash-commands/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/readme/</loc>
   </url><url>
     <loc>https://vidhyadivakar.github.io/Projects/categories/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/docs/</loc>
+  </url><url>
+    <loc>https://vidhyadivakar.github.io/Projects/</loc>
   </url><url>
     <loc>https://vidhyadivakar.github.io/Projects/tags/</loc>
   </url>

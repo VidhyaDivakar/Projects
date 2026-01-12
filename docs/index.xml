@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Portfolio on Projects</title>
-    <link>https://vidhyadivakar.github.io/Projects/</link>
-    <description>Recent content in My Portfolio on Projects</description>
+    <title>Docs on Projects</title>
+    <link>https://vidhyadivakar.github.io/Projects/docs/</link>
+    <description>Recent content in Docs on Projects</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://vidhyadivakar.github.io/Projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://vidhyadivakar.github.io/Projects/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vidhyadivakar.github.io/Projects/about/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Detail-Oriented Technical Writer with over&lt;/strong&gt; &lt;strong&gt;8&lt;/strong&gt; &lt;strong&gt;years of experience&lt;/strong&gt; &lt;strong&gt;delivering clear,&lt;/strong&gt; &lt;strong&gt;precise&lt;/strong&gt;, &lt;strong&gt;and user-friendly documentation across diverse industries&lt;/strong&gt;, &lt;strong&gt;AI&lt;/strong&gt;, &lt;strong&gt;Machine Learning,&lt;/strong&gt; &lt;strong&gt;B2B&lt;/strong&gt; &lt;strong&gt;SaaS, Su&lt;/strong&gt;pply Chain, TOS, &lt;strong&gt;ERP,&lt;/strong&gt; &lt;strong&gt;and&lt;/strong&gt; &lt;strong&gt;N&lt;/strong&gt;etw&lt;strong&gt;o&lt;/strong&gt;r&lt;strong&gt;king&lt;/strong&gt;. The industries that I have worked have given me great exposure and gave me opputunites to easily and quickly adapt with new technologies.&lt;/p&gt;&#xA;&lt;p&gt;Specializ&lt;strong&gt;ed&lt;/strong&gt; &lt;strong&gt;i&lt;/strong&gt;n &lt;strong&gt;transform&lt;/strong&gt;ing technical &lt;strong&gt;content i&lt;/strong&gt;nto u&lt;strong&gt;ser-accessible information&lt;/strong&gt;, &lt;strong&gt;improving&lt;/strong&gt; &lt;strong&gt;product&lt;/strong&gt; &lt;strong&gt;guidance&lt;/strong&gt;, &lt;strong&gt;and reducing user friction.&lt;/strong&gt; &lt;strong&gt;Su&lt;/strong&gt;pported &lt;strong&gt;building&lt;/strong&gt; &lt;strong&gt;an&lt;/strong&gt; &lt;strong&gt;AI-driven&lt;/strong&gt; &lt;strong&gt;prototype&lt;/strong&gt; &lt;strong&gt;leveragi&lt;/strong&gt;ng &lt;strong&gt;advanced models to enhance response acc&lt;/strong&gt;uracy. &lt;strong&gt;Proven ability to streamline processes with&lt;/strong&gt; &lt;strong&gt;S/W User guides&lt;/strong&gt; &lt;strong&gt;and&lt;/strong&gt; &lt;strong&gt;API documentation&lt;/strong&gt; &lt;strong&gt;a&lt;/strong&gt;nd deliver time-sensitive solutions, &lt;strong&gt;collaborating w&lt;/strong&gt;ith cross-function&lt;strong&gt;al teams.&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://vidhyadivakar.github.io/Projects/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vidhyadivakar.github.io/Projects/contact/</guid>
-      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;We&amp;rsquo;d love to hear from you! Please use the information below to get in touch.&lt;/p&gt;&#xA;&lt;h2 id=&#34;email&#34;&gt;Email&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:vidhyadivkarn@gmail.com&#34;&gt;vidhyadivakarn@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;linkedin&#34;&gt;LinkedIn&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/vidhya-divakar&#34;&gt;https://www.linkedin.com/in/vidhya-divakar&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;github&#34;&gt;GitHub&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/vidhyadivakar&#34;&gt;Vidhya Divakar&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Feel free to reach out for collaboration, questions, or just to say hello!&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://vidhyadivakar.github.io/Projects/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://vidhyadivakar.github.io/Projects/docs/api_based_ai_workflow/</link>
@@ -111,13 +97,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://vidhyadivakar.github.io/Projects/docs/vscode-git-bash-commands/</guid>
       <description>VSCODE Git Bash Commands&#xA;&#xA;1. Move a folder one level up&#xA;&#xA;Syntax - mv foldername1/foldername2 ./&#xA;This helps to move the foldername2 to one level up&#xA;&#xA;2. Create a new folder&#xA;Syntax - mkdir foldername&#xA;This helps to create a new folder with the specified foldername in the current directory</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://vidhyadivakar.github.io/Projects/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vidhyadivakar.github.io/Projects/readme/</guid>
-      <description>&lt;p&gt;This is the read me file for my Portfolio site. This explains more about the work that I have been doing and my current projects.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
