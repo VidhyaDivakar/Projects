@@ -4,6 +4,7 @@
 <head>
     <title>My Portfolio</title>
     <meta charset="UTF-8">
+    {{ partial "head.html" . }}
     <style>
         body {
             color: #FFFFFF;
@@ -73,6 +74,9 @@
                 Open Sutainability Technology Project
             </a></li>
     </ul>
+    <h2>My Carousels</h2>
+    <!-- Carousel goes here -->
+    {{ partial "carousel.html" . }}
 
 </body>
 
