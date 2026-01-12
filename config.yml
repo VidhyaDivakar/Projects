@@ -1,0 +1,11 @@
+baseURL: "https://vidhyadivakar.github.io/Projects/"
+languageCode: en-us
+title: Projects
+
+relativeURLs: true
+canonifyURLs: true
+
+publishDir: public
+
+params:
+  description: "Hugo site deployed via GitHub Actions"
